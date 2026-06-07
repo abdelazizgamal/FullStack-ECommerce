@@ -9,7 +9,7 @@ A full-stack e-commerce web application built with **Angular** and **ASP.NET Cor
 | Layer | Repository |
 |-------|-----------|
 | Frontend | [angular-ecommerce-frontend](https://github.com/abdelazizgamal/frontend-repo) |
-| Backend | [aspnet-ecommerce-api](https://github.com/abdelazizgamal/backend-repo) |
+| Backend | [aspnet-ecommerce-api](https://github.com/abdelazizgamal/Ecommerce.API) |
 
 ---
 
